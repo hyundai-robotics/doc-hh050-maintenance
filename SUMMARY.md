@@ -1,6 +1,6 @@
 ﻿# Table of contents
 
-* [HH050 보수설명서](README.md)
+* [YS080 / YS100A / HH050 / HH030L / HH050T 보수설명서](README.md)
 * [1. 안전](1-safety/README.md)
   * [1.1. 서론](1-safety/1-introduction.md)
   * [1.2. 관련 안전규정](1-safety/2-relevent_safety_regulations.md)
